@@ -1,0 +1,5 @@
+export const FETCH_DATA = 'FETCH_DATA';
+export const SEARCH_CHANGE = 'SEARCH_CHANGE';
+export const MOVIES_FETCHED = 'MOVIES_FETCHED';
+export const MOVIES_FAILED = 'MOVIES_FAILED';
+export const SAVE_SEARCH = 'SAVE_SEARCH';
